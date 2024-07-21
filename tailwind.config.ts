@@ -19,7 +19,11 @@ const config: Config = {
         "light-grey": "#f4f6f8",
         grey: "#9daec2",
         "dark-grey": "#6e8098",
+        "royal-blue": "#5964e0",
       },
+      backgroundImage: {
+        "header-pattern-desktop": "url('/assets/desktop/bg-pattern-header.svg')"
+      }
     },
   },
   plugins: [],
