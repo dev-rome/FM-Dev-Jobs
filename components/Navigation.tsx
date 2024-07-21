@@ -15,7 +15,7 @@ const Navigation = () => {
   };
 
   return (
-    <nav className="relative flex items-center bg-header-pattern-desktop bg-cover bg-no-repeat">
+    <nav className="relative flex items-center justify-around pattern-desktop pt-11">
       <Image src={Logo} alt="devjobs" />
       <div className="flex items-center gap-4">
         <Image src={Sun} alt="sun" />

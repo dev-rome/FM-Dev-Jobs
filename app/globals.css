@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.pattern-desktop {
+  background-image: url("../public//assets/desktop/bg-pattern-header.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+}
